@@ -1,0 +1,9 @@
+com\example\demo\interfaces\MyServiceVertxEBProxy.class
+com\example\demo\interfaces\MyServiceVertxProxyHandler.class
+com\example\demo\ConsumerVerticle.class
+com\example\demo\interfaces\package-info.class
+com\example\demo\interfaces\MyService.class
+com\example\demo\ServiceVerticle.class
+com\example\demo\interfaces\MyServiceImpl.class
+com\example\demo\ServiceLauncher.class
+com\example\demo\Consumer.class
